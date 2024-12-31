@@ -1,0 +1,14 @@
+body {
+    background-color: #9A9D9E
+}
+.boxSfondo {
+    position: relative;
+    width: 100%;
+    height: 100%
+}
+.trasparenza {
+    opacity: 0.5
+}
+.transizioneInizio {
+    display: none
+}
